@@ -1,2 +1,2 @@
 # Neural-Networks
-A set of projects for the "Neural Networks - Deep Learning" course at the School of Informatics, Aristotle University of Thessaloniki
+Each project corresponds to an assignment, the idea being to test different classifiers on the CIFAR-10 database.
